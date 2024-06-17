@@ -1,4 +1,6 @@
-<script type='text/javascript'>
+<html>
+	<body></body>
+	<script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
 			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
@@ -17,3 +19,6 @@
 	};
 </script>
 <script type='text/javascript' src='https://abb--comint.sandbox.my.site.com/ESWPANORTHERNHUB1716987000569/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+</body>
+
+</html>
